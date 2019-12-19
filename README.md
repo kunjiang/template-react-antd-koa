@@ -16,3 +16,4 @@
   - koa-body
   - koa-static
   - koa-session
+  - sequelize/mysql
